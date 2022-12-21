@@ -12,7 +12,7 @@ public class CrearPartido extends javax.swing.JFrame
     private Apuesta v;
     
     /**
-     *
+     * Apuesta
      */
     public CrearPartido() 
     {

@@ -18,7 +18,7 @@ import javax.swing.WindowConstants;
 public class Apuesta extends javax.swing.JFrame {
 
     /**
-     *
+     * Apuesta
      */
     public Apuesta() 
     {
@@ -187,7 +187,7 @@ public class Apuesta extends javax.swing.JFrame {
 
     /**
      *
-     * @param partido
+     * @param partido 
      */
     public void partidoNuevo(String partido)
     {
